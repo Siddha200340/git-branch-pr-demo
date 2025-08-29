@@ -1,1 +1,1 @@
-# git-branch-pr-demo
+This is the main project README.
